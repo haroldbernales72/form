@@ -15,7 +15,7 @@
             <label for="password">Password:</label>
             <input type="password" id="password" name="password" required>
 
-            <button type="submit" style="margin-left: 125px; height: 40px; width: 20%;">Submit</button>
+            <button type="submit" style="margin-left: 125px; height: 40px; width: 20%;">Login</button>
         </form>
     </div>
 </body>
